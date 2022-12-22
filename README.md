@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Faiyaz Ahmad
-- 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning Machine Learning,Neural Networks and Deep Learning, My SQL and Python
-- 💞️ I’m looking to collaborate on different projects based on Machine Learning and Deep Learning
+- 👀 I’m pursuing Masters' in Data Science
+- 💞️ My area of interest is Natural Language processing and Computer Vision
 - 📫 How to reach me - Pl mail me- faiyazahmed106@gmail.com
 
 <!---

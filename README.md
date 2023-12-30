@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Faiyaz Ahmad
 - 👀 I’m pursuing Masters' in Data Science
-- 💞️ My area of interest is Machine Learning, Computer Vision, and Natural Language processing.
+- 💞️ My area of interest in Machine Learning, Computer Vision, and Natural Language processing.
+- I have experience in working in GCP and AWS Cloud. 
 - 📫 How to reach me - Pl mail me- faiyaza@umich.edu
 
 <!---

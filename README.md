@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Faiyaz Ahmad
 - 👀 I’m pursuing Masters' in Data Science
-- 💞️ My area of interest in Data Science, Machine Learning, and Natural Language processing.
+- 💞️ My area of interest in Computer Vision and Natural Language Processing. 
 - I have experience in working in GCP and AWS Cloud. 
-- 📫 How to reach me - Pl mail me- faiyaza@umich.edu
+- 📫 How to reach me - Pl mail me- faiyazahmad5045@gmail.com
 
 <!---
 faiyaz106/faiyaz106 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

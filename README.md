@@ -1,8 +1,9 @@
 - 👋 Hi, I’m Faiyaz Ahmad
-- 👀 I have recently graduated with MS in Data Science. 
+- 👀 Graduated with MS in Data Science from University of Experience.
+- Over 4 years of experience in building data science solutions in Manufacturing Operations, Healtcare, and Sports Analytics.
 - 💞️ My area of interest in Computer Vision and Natural Language Processing by using Deep Learning. 
 - Proficient in Building Data Pipeline and Machine Learning solution using  GCP and AWS Cloud Infrastructure.
-- 📫 How to reach me - Pl mail me- faiyaza@umich.edu or faiyazahmed106@gmail.com
+- 📫 How to reach me - Pl mail me- faiyaza@umich.edu or faiyazahmad5045@gmail.com
 
 <!---
 faiyaz106/faiyaz106 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Faiyaz Ahmad
-- 👀 Graduated with MS in Data Science from University of Experience.
+- 👀 Graduated with MS in Data Science from University of Michigan-Dearborn.
 - Over 4.5 years of experience in building data science solutions in Manufacturing Operations, Healtcare, and Sports Analytics.
 - 💞️ My area of interest in Computer Vision and Natural Language Processing by using Deep Learning. 
 - Proficient in Building Data Pipeline and Machine Learning solution using  GCP and AWS Cloud Infrastructure.
